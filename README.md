@@ -21,3 +21,6 @@
 - [AWS Service quotas](https://docs.aws.amazon.com/general/latest/gr/aws-service-information.html)
 - [FinOps framework](https://www.finops.org/framework/)
 - [Customer Carbon Footprint tool documentation](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/ccft-overview.html?region=us-east-2)
+### Module 2 - Access Management
+- [Tasks that require root user credentials](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_root-user.html#root-user-tasks)
+- [Managing access keys](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_access-keys.html#securing_access-keys)
