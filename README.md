@@ -30,3 +30,5 @@
 - [Best practices for a multi-account environment in AWS](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_ous_best_practices.html)
 ### Module 3 - System Discovery
 - [Setting up session manager](https://docs.aws.amazon.com/systems-manager/latest/userguide/session-manager-getting-started.html)
+- [Announcing support for Custom rules using guard](https://aws.amazon.com/blogs/mt/announcing-aws-config-custom-rules-using-guard-custom-policy/)
+- [AWS Config conformance pack templates](https://docs.aws.amazon.com/config/latest/developerguide/conformancepack-sample-templates.html)
