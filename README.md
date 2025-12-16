@@ -12,3 +12,5 @@
 ### Module 1 - Intro to cloudops on AWS
 - [There's no place like production](https://imwrightshardcode.com/2010/12/theres-no-place-like-production/)
 - [Well architected framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
+- [AWS Post-event summaries](https://aws.amazon.com/premiumsupport/technology/pes/)
+- [AWS Service health](https://health.aws.amazon.com/health/status)
