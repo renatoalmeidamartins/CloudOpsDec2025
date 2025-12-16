@@ -35,4 +35,8 @@
 - [Some config custom rule using Guard](https://github.com/aws-samples/aws-config-custom-rule-cloudformation-guard)
 - [Registry with a lot of guard rules](https://github.com/aws-cloudformation/aws-guard-rules-registry)
 - [Landing page for documentation about tag policies](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_tag-policies.html)
-
+### Module 4 - Deploy and update resources
+- [Process to create an AMI from a Windows instance](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ami-create-win-sysprep.html)
+- [Activating cost-allocation tags](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/activating-tags.html)
+- [Pre-requisites for tag policies in an organization](https://docs.aws.amazon.com/organizations/latest/userguide/services-that-can-integrate-tag-policies.html)
+- [Best practices for tag policies](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_tag-policies-best-practices.html)
