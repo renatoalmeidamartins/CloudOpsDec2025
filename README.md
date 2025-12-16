@@ -7,3 +7,4 @@
 - [Curated materials for preparing for the CloudOps Engineer exam](https://skillbuilder.aws/category/exam-prep/cloudops-engineer-associate-SOA-C03)
 - [Skill builder, a learning platform with plenty of free content, and susbscription-based practical content](https://skillbuilder.aws/)
 - [Tech essentials, an interesting pre-req for the class](https://skillbuilder.aws/learn/K8C2FNZM6X/aws-technical-essentials/N7Q3SXQCDY)
+- [There's no place like production](https://imwrightshardcode.com/2010/12/theres-no-place-like-production/)
