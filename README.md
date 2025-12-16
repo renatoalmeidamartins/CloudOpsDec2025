@@ -32,3 +32,5 @@
 - [Setting up session manager](https://docs.aws.amazon.com/systems-manager/latest/userguide/session-manager-getting-started.html)
 - [Announcing support for Custom rules using guard](https://aws.amazon.com/blogs/mt/announcing-aws-config-custom-rules-using-guard-custom-policy/)
 - [AWS Config conformance pack templates](https://docs.aws.amazon.com/config/latest/developerguide/conformancepack-sample-templates.html)
+- [Some config custom rule using Guard](https://github.com/aws-samples/aws-config-custom-rule-cloudformation-guard)
+- [Cloudformation guard rules](https://github.com/aws-cloudformation/aws-guard-rules-registry)
