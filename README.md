@@ -33,4 +33,6 @@
 - [Announcing support for Custom rules using guard](https://aws.amazon.com/blogs/mt/announcing-aws-config-custom-rules-using-guard-custom-policy/)
 - [AWS Config conformance pack templates](https://docs.aws.amazon.com/config/latest/developerguide/conformancepack-sample-templates.html)
 - [Some config custom rule using Guard](https://github.com/aws-samples/aws-config-custom-rule-cloudformation-guard)
-- [REgistry with a lot of guard rules](https://github.com/aws-cloudformation/aws-guard-rules-registry)
+- [Registry with a lot of guard rules](https://github.com/aws-cloudformation/aws-guard-rules-registry)
+- [Landing page for documentation about tag policies](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_tag-policies.html)
+
