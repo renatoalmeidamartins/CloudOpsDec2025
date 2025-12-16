@@ -14,3 +14,4 @@
 - [Well architected framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
 - [AWS Post-event summaries](https://aws.amazon.com/premiumsupport/technology/pes/)
 - [AWS Service health](https://health.aws.amazon.com/health/status)
+- [AWS Cloud adoption framework ebook](https://d1.awsstatic.com/whitepapers/aws-caf-ebook.pdf)
