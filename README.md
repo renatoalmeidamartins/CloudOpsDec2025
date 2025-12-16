@@ -24,3 +24,4 @@
 ### Module 2 - Access Management
 - [Tasks that require root user credentials](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_root-user.html#root-user-tasks)
 - [Managing access keys](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_access-keys.html#securing_access-keys)
+- [AWS Policy generator](https://awspolicygen.s3.amazonaws.com/policygen.html)
