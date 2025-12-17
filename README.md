@@ -43,3 +43,9 @@
 - [Best practices for tag policies](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_tag-policies-best-practices.html)
 - [Instance metadata service, has a lot of document categories with instance information - metadata, user data, and dynamic data](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instancedata-data-retrieval.html)
 - [EC2 image builder, service to create pipelines for image customization](https://docs.aws.amazon.com/imagebuilder/latest/userguide/what-is-image-builder.html)
+## Day 2 links
+### Module 5 - Automate Resource Deployment
+- [cfn-signal, which allows us to define a more compelx sequence of resource creation](https://docs.aws.amazon.com/AWSCloudFormation/latest/TemplateReference/cfn-signal.html)
+- [WaitConditions allows us to put the whole stack in a create-in-progress state, until the condition is satisfied](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/using-cfn-waitcondition.html)
+- [CreationPolicy attribute, can be used in some resources to make the resource remain in create-in-progress until it is satisfied](https://docs.aws.amazon.com/AWSCloudFormation/latest/TemplateReference/aws-attribute-creationpolicy.html)
+- [cfn-init, which takes the actions defined in the AWS::CloudFormation::Init section](https://docs.aws.amazon.com/AWSCloudFormation/latest/TemplateReference/cfn-init.html)
