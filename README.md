@@ -61,3 +61,5 @@
 - [Public parameters in Systems Manager parameter store](https://docs.aws.amazon.com/systems-manager/latest/userguide/parameter-store-public-parameters.html)
 - [Defining runbooks](https://docs.aws.amazon.com/systems-manager/latest/userguide/automation-documents.html)
 - [Actions available in Systems manager automation documents (runbooks)](https://docs.aws.amazon.com/systems-manager/latest/userguide/automation-actions.html)
+- [Change manager is no no longer available. AWS has no equivalent service, recommending to browse the partner network](https://docs.aws.amazon.com/systems-manager/latest/userguide/change-manager-availability-change.html)
+- [Some automation documents published by AWS](https://github.com/awslabs/aws-systems-manager/tree/master/Documents)
