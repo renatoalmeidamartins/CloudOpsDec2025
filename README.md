@@ -47,5 +47,9 @@
 ### Module 5 - Automate Resource Deployment
 - [cfn-signal, which allows us to define a more compelx sequence of resource creation](https://docs.aws.amazon.com/AWSCloudFormation/latest/TemplateReference/cfn-signal.html)
 - [WaitConditions allows us to put the whole stack in a create-in-progress state, until the condition is satisfied](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/using-cfn-waitcondition.html)
+- [Using nested stacks](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/using-cfn-nested-stacks.html)
 - [CreationPolicy attribute, can be used in some resources to make the resource remain in create-in-progress until it is satisfied](https://docs.aws.amazon.com/AWSCloudFormation/latest/TemplateReference/aws-attribute-creationpolicy.html)
 - [cfn-init, which takes the actions defined in the AWS::CloudFormation::Init section](https://docs.aws.amazon.com/AWSCloudFormation/latest/TemplateReference/cfn-init.html)
+- [Stack sets, allowing us to deploy stacks across accounts and regions](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/what-is-cfnstacksets.html)
+- [CloudFormation best practices](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/best-practices.html)
+- [Using nested stacks](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/using-cfn-nested-stacks.html)
