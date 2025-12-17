@@ -63,3 +63,8 @@
 - [Actions available in Systems manager automation documents (runbooks)](https://docs.aws.amazon.com/systems-manager/latest/userguide/automation-actions.html)
 - [Change manager is no no longer available. AWS has no equivalent service, recommending to browse the partner network](https://docs.aws.amazon.com/systems-manager/latest/userguide/change-manager-availability-change.html)
 - [Some automation documents published by AWS](https://github.com/awslabs/aws-systems-manager/tree/master/Documents)
+### Module 7 - Configure highly available systems
+- [Announcement of gateway load balancer](https://aws.amazon.com/blogs/aws/introducing-aws-gateway-load-balancer-easy-deployment-scalability-and-high-availability-for-partner-appliances/)
+- [Route 53 routing policies](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html)
+- [Route 53 shuffle sharding](https://aws.amazon.com/blogs/architecture/shuffle-sharding-massive-and-magical-fault-isolation/)
+- [Resource types supported as targets in route 53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-to-aws-resources.html)
