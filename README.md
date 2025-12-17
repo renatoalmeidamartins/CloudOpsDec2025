@@ -28,6 +28,7 @@
 - [IAM global condition keys](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_condition-keys.html)
 - [AWS-managed job function policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_job-functions.html)
 - [Best practices for a multi-account environment in AWS](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_ous_best_practices.html)
+- [IAM policy simulator](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_testing-policies.html)
 ### Module 3 - System Discovery
 - [Setting up session manager](https://docs.aws.amazon.com/systems-manager/latest/userguide/session-manager-getting-started.html)
 - [Announcing support for Custom rules using guard](https://aws.amazon.com/blogs/mt/announcing-aws-config-custom-rules-using-guard-custom-policy/)
