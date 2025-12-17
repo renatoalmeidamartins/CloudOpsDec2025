@@ -72,3 +72,10 @@
 - [Avaliable health check in autoscaling groups](https://docs.aws.amazon.com/autoscaling/ec2/userguide/ec2-auto-scaling-health-checks.html)
 - [Allocation strategies for auto-scaling groups](https://docs.aws.amazon.com/autoscaling/ec2/userguide/allocation-strategies.html)
 - [Only in Jan 2025, the STS global endpoint became really global. Until then, it was Virginia-based](https://aws.amazon.com/blogs/security/announcing-upcoming-changes-to-the-aws-security-token-service-global-endpoint/)
+- Load testing tools
+  - [JMeter](https://jmeter.apache.org/)
+  - [Artillery](https://www.artillery.io/)
+  - [The grinder](https://github.com/cossme/grinder)
+- [Spot instance termination notices](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/spot-instance-termination-notices.html)
+- [Node termination handler on EKS](https://github.com/aws/aws-node-termination-handler#aws-node-termination-handler)
+- [Spot instance advisor](https://aws.amazon.com/ec2/spot/instance-advisor/)
