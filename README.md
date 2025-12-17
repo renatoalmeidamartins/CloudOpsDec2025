@@ -57,5 +57,7 @@
 - [TaskCat can test stacks across multiple regions](https://github.com/aws-ia/taskcat)
 
 ### Module 6 - Manage resources
--[Incident manager is no longer available. Similar functionality is now offered through OpsCenter, and third parties](https://docs.aws.amazon.com/incident-manager/latest/userguide/migration-guides.html)
--[Public parameters in Systems Manager parameter store](https://docs.aws.amazon.com/systems-manager/latest/userguide/parameter-store-public-parameters.html)
+- [Incident manager is no longer available. Similar functionality is now offered through OpsCenter, and third parties](https://docs.aws.amazon.com/incident-manager/latest/userguide/migration-guides.html)
+- [Public parameters in Systems Manager parameter store](https://docs.aws.amazon.com/systems-manager/latest/userguide/parameter-store-public-parameters.html)
+- [Defining runbooks](https://docs.aws.amazon.com/systems-manager/latest/userguide/automation-documents.html)
+- [Actions available in Systems manager automation documents (runbooks)](https://docs.aws.amazon.com/systems-manager/latest/userguide/automation-actions.html)
