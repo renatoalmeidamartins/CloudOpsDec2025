@@ -81,3 +81,8 @@
 - [Spot instance advisor](https://aws.amazon.com/ec2/spot/instance-advisor/)
 - [BYOL for Windows servers licenses is supported with some constraints](https://aws.amazon.com/blogs/modernizing-with-aws/operating-byol-windows-server-workloads-effectively-on-aws/)
 - [Managing Oracle licesnes using License Manager](https://aws.amazon.com/blogs/mt/tracking-your-oracle-licenses-using-aws-license-manager/)
+### Module 9 - Monitor and Maintain System Health
+- [Important announcements related to CloudOps from re:invent 2025](https://aws.amazon.com/blogs/mt/2025-top-10-announcements-for-aws-cloud-operations/)
+- [Cloudwatch investigations](https://aws.amazon.com/blogs/aws/investigate-and-remediate-operational-issues-with-amazon-q-developer/)
+- [Sample architecture to transform how cloud operations teams handle incidents using AI - AIOps](https://aws.amazon.com/blogs/mt/reimagine-aiops-with-amazon-cloudwatch-investigations-and-amazon-nova-sonic/)
+
