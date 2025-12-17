@@ -89,3 +89,4 @@
 - [CloudWatch outlier detection](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/CloudWatch_Anomaly_Detection.html)
 - [Advanced analytics using Amazon CloudWatch Logs Insights - using SQL](https://aws.amazon.com/blogs/mt/advanced-analytics-using-amazon-cloudwatch-logs-insights/)
 - [EventBridge support for SaaS event sources - 9 partners when announced, 60 in December 2025](https://aws.amazon.com/blogs/aws/amazon-eventbridge-event-driven-aws-integration-for-your-saas-applications/)
+- [MIgrating from X-ray to OTel](https://docs.aws.amazon.com/xray/latest/devguide/xray-sdk-migration.html)
