@@ -53,3 +53,9 @@
 - [Stack sets, allowing us to deploy stacks across accounts and regions](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/what-is-cfnstacksets.html)
 - [CloudFormation best practices](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/best-practices.html)
 - [Using nested stacks](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/using-cfn-nested-stacks.html)
+- [CloudFormation-specific parameter types](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cloudformation-supplied-parameter-types.html)
+- [TaskCat can test stacks across multiple regions](https://github.com/aws-ia/taskcat)
+
+### Module 6 - Manage resources
+-[Incident manager is no longer available. Similar functionality is now offered through OpsCenter, and third parties](https://docs.aws.amazon.com/incident-manager/latest/userguide/migration-guides.html)
+-[Public parameters in Systems Manager parameter store](https://docs.aws.amazon.com/systems-manager/latest/userguide/parameter-store-public-parameters.html)
