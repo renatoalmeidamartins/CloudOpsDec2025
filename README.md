@@ -79,3 +79,5 @@
 - [Spot instance termination notices](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/spot-instance-termination-notices.html)
 - [Node termination handler on EKS](https://github.com/aws/aws-node-termination-handler#aws-node-termination-handler)
 - [Spot instance advisor](https://aws.amazon.com/ec2/spot/instance-advisor/)
+- [BYOL for Windows servers licenses is supported with some constraints](https://aws.amazon.com/blogs/modernizing-with-aws/operating-byol-windows-server-workloads-effectively-on-aws/)
+- [Managing Oracle licesnes using License Manager](https://aws.amazon.com/blogs/mt/tracking-your-oracle-licenses-using-aws-license-manager/)
