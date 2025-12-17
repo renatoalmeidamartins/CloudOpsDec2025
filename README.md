@@ -85,4 +85,6 @@
 - [Important announcements related to CloudOps from re:invent 2025](https://aws.amazon.com/blogs/mt/2025-top-10-announcements-for-aws-cloud-operations/)
 - [Cloudwatch investigations](https://aws.amazon.com/blogs/aws/investigate-and-remediate-operational-issues-with-amazon-q-developer/)
 - [Sample architecture to transform how cloud operations teams handle incidents using AI - AIOps](https://aws.amazon.com/blogs/mt/reimagine-aiops-with-amazon-cloudwatch-investigations-and-amazon-nova-sonic/)
-
+- [Operationalizing CloudWatch Anomaly Detection](https://aws.amazon.com/blogs/mt/operationalizing-cloudwatch-anomaly-detection/)
+- [CloudWatch outlier detection](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/CloudWatch_Anomaly_Detection.html)
+- [Advanced analytics using Amazon CloudWatch Logs Insights - using SQL](https://aws.amazon.com/blogs/mt/advanced-analytics-using-amazon-cloudwatch-logs-insights/)
