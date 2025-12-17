@@ -68,3 +68,7 @@
 - [Route 53 routing policies](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html)
 - [Route 53 shuffle sharding](https://aws.amazon.com/blogs/architecture/shuffle-sharding-massive-and-magical-fault-isolation/)
 - [Resource types supported as targets in route 53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-to-aws-resources.html)
+### Module 8 - Automate scaling
+- [Avaliable health check in autoscaling groups](https://docs.aws.amazon.com/autoscaling/ec2/userguide/ec2-auto-scaling-health-checks.html)
+- [Allocation strategies for auto-scaling groups](https://docs.aws.amazon.com/autoscaling/ec2/userguide/allocation-strategies.html)
+- [Only in Jan 2025, the STS global endpoint became really global. Until then, it was Virginia-based](https://aws.amazon.com/blogs/security/announcing-upcoming-changes-to-the-aws-security-token-service-global-endpoint/)
