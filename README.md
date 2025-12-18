@@ -91,3 +91,9 @@
 - [EventBridge support for SaaS event sources - 9 partners when announced, 60 in December 2025](https://aws.amazon.com/blogs/aws/amazon-eventbridge-event-driven-aws-integration-for-your-saas-applications/)
 - [Migrating from X-ray to OTel](https://docs.aws.amazon.com/xray/latest/devguide/xray-sdk-migration.html)
 - [Cloudwatch application signals](https://aws.amazon.com/blogs/mt/amazon-cloudwatch-application-signals-new-enhancements-for-application-monitoring/)
+
+## Day 3 links
+### Module 10 - Data security and system auditing
+- [When and where to use IAM permission boundaries](https://aws.amazon.com/blogs/security/when-and-where-to-use-iam-permissions-boundaries/)
+- [Interesting examples about permission boundaries](https://github.com/aws-samples/example-permissions-boundary)
+- [Inspector V2 does continuous scanning and scans ECR images](https://aws.amazon.com/blogs/aws/improved-automated-vulnerability-management-for-cloud-workloads-with-a-new-amazon-inspector/)
