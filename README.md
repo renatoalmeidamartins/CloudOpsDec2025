@@ -97,3 +97,5 @@
 - [When and where to use IAM permission boundaries](https://aws.amazon.com/blogs/security/when-and-where-to-use-iam-permissions-boundaries/)
 - [Interesting examples about permission boundaries](https://github.com/aws-samples/example-permissions-boundary)
 - [Inspector V2 does continuous scanning and scans ECR images](https://aws.amazon.com/blogs/aws/improved-automated-vulnerability-management-for-cloud-workloads-with-a-new-amazon-inspector/)
+### Module 11 - Opeate secure and resilient networks
+- [Introducing regional NAT gateway](https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-amazon-vpc-regional-nat-gateway/)
