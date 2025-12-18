@@ -3,6 +3,11 @@
 # Please fill the survey!
 Please go to [https://www.aws.training/account/transcript/Archived](https://www.aws.training/account/transcript/Archived) and fill the evaluation.
 
+## My contact details
+- email: renatoalmeidamartins@gmail.com
+- [Linkedin profile](https://www.linkedin.com/in/renatodealmeidamartins/)
+
+
 ## Access to labs and course materials
 - [Access to labs and course materials](https://us-east-1.student.classrooms.aws.training/class/ilt%23fJrEwnzhvo87BwWmV7oMSE) . When you open this link, you will be prompted to signin. The preferred way is using "builder id". Problem is this tipically only works with personal emails. If you want to use your corporate account, choose One-time email password (preferred) or SSO. The SSO option eventually prevents us from working properly on the labs. Once registered, **you will get an access denied, saying "you don't have access to the class. please contaxt xyz for assistance"** error until I add you to the class. Please send me the email used to register through chat.
 
@@ -119,3 +124,5 @@ Please go to [https://www.aws.training/account/transcript/Archived](https://www.
 - [Updated support for FOCUS format cost reports](https://aws.amazon.com/blogs/aws-cloud-financial-management/data-exports-for-focus-1-2-is-now-generally-available/)
 - [Data dictionary for cost and usage reports](https://docs.aws.amazon.com/cur/latest/userguide/data-dictionary.html)
 - [Available actions for budgets](https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-controls.html)
+- [New in Compute Optimizer - automation rules, example for EBS volumes](https://aws.amazon.com/blogs/aws-cloud-financial-management/introducing-automated-amazon-ebs-volume-optimization-in-aws-compute-optimizer/)
+- [Compute optimizer gives Lambda recommendations](https://aws.amazon.com/blogs/compute/optimizing-aws-lambda-cost-and-performance-using-aws-compute-optimizer/)
