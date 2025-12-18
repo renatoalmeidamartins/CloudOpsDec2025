@@ -115,3 +115,7 @@ Please go to [https://www.aws.training/account/transcript/Archived](https://www.
 - [Origin access control for cloudfront access to S3 objects](https://docs.aws.amazon.com/en_us/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html)
 - [Object lock - be careful, as retention in compliance mode means the only way to delete an object is to close the associated AWS account](https://docs.aws.amazon.com/AmazonS3/latest/userguide/object-lock.html)
 - [Restoring objects from Glacier](https://repost.aws/knowledge-center/restore-s3-object-glacier-storage-class)
+### Module 14 - Cost reporting, alerts and optimization
+- [Updated support for FOCUS format cost reports](https://aws.amazon.com/blogs/aws-cloud-financial-management/data-exports-for-focus-1-2-is-now-generally-available/)
+- [Data dictionary for cost and usage reports](https://docs.aws.amazon.com/cur/latest/userguide/data-dictionary.html)
+- [Available actions for budgets](https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-controls.html)
