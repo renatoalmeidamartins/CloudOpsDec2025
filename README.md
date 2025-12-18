@@ -111,3 +111,4 @@
 - [S3 objects can now be up to 50-TB large](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-s3-maximum-object-size-50-tb/)
 - [Origin access control for cloudfront access to S3 objects](https://docs.aws.amazon.com/en_us/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html)
 - [Object lock - be careful, as retention in compliance mode means the only way to delete an object is to close the associated AWS account](https://docs.aws.amazon.com/AmazonS3/latest/userguide/object-lock.html)
+- [Restoring objects from Glacier](https://repost.aws/knowledge-center/restore-s3-object-glacier-storage-class)
