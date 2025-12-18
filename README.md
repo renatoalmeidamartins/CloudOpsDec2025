@@ -106,3 +106,8 @@
 - [EFS is not supported by default on Windows instances. This project tries to make it available through Samba](https://github.com/aws-samples/efs-samba-ad-integration-for-windows-access)
 - [Burst in action on EBS volumes, focusing on RDS](https://aws.amazon.com/blogs/database/understanding-burst-vs-baseline-performance-with-amazon-rds-and-gp2/)
 - [Same concept that is there for EBS burst is on EC2 burstable-instances](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/burstable-credits-baseline-concepts.html)
+### Module 13 - Object storage
+- [S3 supports 1:Many replication](https://aws.amazon.com/blogs/aws/new-amazon-s3-replication-adds-support-for-multiple-destination-buckets/)
+- [S3 objects can now be up to 50-TB large](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-s3-maximum-object-size-50-tb/)
+- [Origin access control for cloudfront access to S3 objects](https://docs.aws.amazon.com/en_us/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html)
+- [Object lock - be careful, as retention in compliance mode means the only way to delete an object is to close the associated AWS account](https://docs.aws.amazon.com/AmazonS3/latest/userguide/object-lock.html)
