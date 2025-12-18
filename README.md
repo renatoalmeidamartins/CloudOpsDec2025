@@ -99,3 +99,8 @@
 - [Inspector V2 does continuous scanning and scans ECR images](https://aws.amazon.com/blogs/aws/improved-automated-vulnerability-management-for-cloud-workloads-with-a-new-amazon-inspector/)
 ### Module 11 - Opeate secure and resilient networks
 - [Introducing regional NAT gateway](https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-amazon-vpc-regional-nat-gateway/)
+### Module 12 - MOuntable storage
+- [EBS multi-attach](https://docs.aws.amazon.com/ebs/latest/userguide/ebs-volumes-multi.html)
+- [EBS volume types](https://docs.aws.amazon.com/ebs/latest/userguide/ebs-volume-types.html)
+- [Fast snapshot restore](https://docs.aws.amazon.com/ebs/latest/userguide/ebs-fast-snapshot-restore.html)
+- [EFS is not supported by default on Windows instances. This project tries to make it available through Samba](https://github.com/aws-samples/efs-samba-ad-integration-for-windows-access)
