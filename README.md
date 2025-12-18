@@ -104,3 +104,5 @@
 - [EBS volume types](https://docs.aws.amazon.com/ebs/latest/userguide/ebs-volume-types.html)
 - [Fast snapshot restore](https://docs.aws.amazon.com/ebs/latest/userguide/ebs-fast-snapshot-restore.html)
 - [EFS is not supported by default on Windows instances. This project tries to make it available through Samba](https://github.com/aws-samples/efs-samba-ad-integration-for-windows-access)
+- [Burst in action on EBS volumes, focusing on RDS](https://aws.amazon.com/blogs/database/understanding-burst-vs-baseline-performance-with-amazon-rds-and-gp2/)
+- [Same concept that is there for EBS burst is on EC2 burstable-instances](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/burstable-credits-baseline-concepts.html)
